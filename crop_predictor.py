@@ -1,6 +1,4 @@
 ################################################################################
-# Name: Shreyas Sawant
-# Roll no.: I059
 # Purpose: Predict Rainfall of current year by taking inputs of previous years
 ################################################################################
 
